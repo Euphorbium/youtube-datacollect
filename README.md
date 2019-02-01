@@ -27,7 +27,7 @@ after all this is done, initialize the database:
     
 Start monitoring some youtube channel:
     
-    $ python manage.py --channel-id=UCwUizOU8pPWXdXNniXypQEQ
+    $ python manage.py start_scraping --channel-id=UCwUizOU8pPWXdXNniXypQEQ
     
 # Running the app
 
